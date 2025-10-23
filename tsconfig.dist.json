@@ -11,6 +11,7 @@
     "rootDir": ".",
     "outDir": "./dist",
     "jsx": "react-jsx",
-    "emitDeclarationOnly": true
+    "emitDeclarationOnly": true,
+    "noCheck": true
   }
 }
