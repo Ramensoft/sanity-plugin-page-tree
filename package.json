@@ -1,6 +1,6 @@
 {
   "name": "@q42/sanity-plugin-page-tree",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "A Sanity plugin to make managing nested pages in a tree easier",
   "keywords": [
     "sanity",
@@ -92,7 +92,7 @@
     "watch": "pkg-utils watch --strict",
     "tsc": "tsc --noEmit",
     "tsc:watch": "tsc --noEmit --watch",
-    "prepare": "npm run build"
+    "prepare": "pnpm run build"
   },
   "dependencies": {
     "@sanity/icons": "^3.7.0",
