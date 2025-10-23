@@ -1,6 +1,6 @@
 {
   "name": "@q42/sanity-plugin-page-tree",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "description": "A Sanity plugin to make managing nested pages in a tree easier",
   "keywords": [
     "sanity",
@@ -97,10 +97,9 @@
   "dependencies": {
     "@sanity/icons": "^3.7.0",
     "@sanity/incompatible-plugin": "^1.0.4",
-    "@sanity/ui": "^3.1.10",
+    "@sanity/ui": "^3.1.11",
     "@sanity/uuid": "^3.0.2",
     "lodash": "^4.17.21",
-    "next-sanity": "^9.11.1",
     "rxjs": "^7.8.2",
     "sanity-plugin-utils": "^1.6.4"
   },
